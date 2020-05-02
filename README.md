@@ -32,6 +32,6 @@ If the user has jupyter notebook and necessary anaconda distribution. We can eas
 
 ## Summray :
 https://medium.com/@hider.tla/things-you-should-know-before-visiting-seattle-1d874992ef0c
-## Refs
+## license 
 
 The license information is available in 'LICENSE.TXT'
